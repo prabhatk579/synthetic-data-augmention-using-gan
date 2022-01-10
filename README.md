@@ -1,1 +1,1 @@
-<p align = center><font size = 5> Synthetic Data Augmention Using GAN</font></p>
+<h1 align = center>Synthethic Data Augmentation Using GAN</h1>
