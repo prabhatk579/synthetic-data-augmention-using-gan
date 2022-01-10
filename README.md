@@ -1,1 +1,1 @@
-# synthetic-data-augmention-using-gan
+<p align = center><font size = 5> Synthetic Data Augmention Using GAN</font></p>
